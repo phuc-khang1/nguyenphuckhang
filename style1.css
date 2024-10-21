@@ -1,0 +1,11 @@
+.container .footer img {
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(140,185,255,1.00) 45.08%,rgba(134,182,255,1.00) 47.15%,rgba(89,255,201,1.00) 64.77%,rgba(0,195,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(140,185,255,1.00) 45.08%,rgba(134,182,255,1.00) 47.15%,rgba(89,255,201,1.00) 64.77%,rgba(0,195,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(140,185,255,1.00) 45.08%,rgba(134,182,255,1.00) 47.15%,rgba(89,255,201,1.00) 64.77%,rgba(0,195,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(140,185,255,1.00) 45.08%,rgba(134,182,255,1.00) 47.15%,rgba(89,255,201,1.00) 64.77%,rgba(0,195,255,1.00) 100%);
+}
+body {
+    background-color: #5EC0DD;
+}
